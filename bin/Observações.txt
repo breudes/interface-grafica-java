@@ -1,0 +1,16 @@
+Lista 4 - Atividade avaliativa da terceira unidade (2021.1)
+
+Disciplina: IMD0040 - Linguagem de Programação II 
+Turma: T02
+Docente: Antonino Alves Feitosa Neto
+Discente: Brenda Alexandra de Souza Silva 
+
+Observações: 
+- A questão 01, parte referente a leitura de arquivo, é implementada no método openFile();
+- A questão 02 é implementada no método openFile();
+- A questão 03 é implementada no método openFile();
+- A questão 04 é implementada no método openFile();
+- A questão 01, referente a parte de escrita de arquivo, é implementada nos métodos saveFileContent() e saveFileContentAs();
+- A questão 06 é implementada no método setHeader(), porém, utiliza os métodos mencionados anteriormente nas ações dos botões presentes no menu;
+- Não consegui realizar a questão 05, apenas consegui manusear uma única aba, isso fica claro ao ver o código e claro, o projeto executado.
+- Não consegui implementar as questões 07 e 08.
